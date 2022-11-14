@@ -1,0 +1,79 @@
+body{
+    padding-bottom:59px;
+    background-image: url('bgSignUp.jpeg');
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+}
+
+#altBody{
+    margin-left: 27%;
+    margin-top: 100px;
+    padding   : 0px;
+    width: 30%;
+    background: blue;
+}
+
+#altBody h1{
+    height:50px;
+    text-align: center;
+    color: white;
+}
+
+#registrationContainer{
+    height: 300px;
+    background-color: #c4c4c4;
+}
+
+tr{
+    height: 50px;
+}
+
+#submit01{
+    float: left;
+    background-color:  black;
+    color: white;
+    border-collapse: collapse;
+}
+
+#submit02{
+    float: right;
+    background-color:  blue;
+    color: white;
+    border-collapse: collapse;
+
+
+    <div class="topnav" >
+
+  <a class="active" href="#home">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+</div>
+}
+* Add a black background color to the top navigation 
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar 
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover 
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link 
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;/*
